@@ -1,0 +1,12 @@
+com.example.covid_tracker.app-window-1.0.0-beta04-0 C:\Users\Admin\.gradle\caches\transforms-3\0441a9f8283a4db984cd8a505d72d022\transformed\window-1.0.0-beta04\res
+com.example.covid_tracker.app-annotation-experimental-1.1.0-1 C:\Users\Admin\.gradle\caches\transforms-3\3b43466037b32d170ff71a165c28a88d\transformed\annotation-experimental-1.1.0\res
+com.example.covid_tracker.app-core-1.6.0-2 C:\Users\Admin\.gradle\caches\transforms-3\814dd45e992a335ffe47b806ec7e0373\transformed\core-1.6.0\res
+com.example.covid_tracker.app-window-java-1.0.0-beta04-3 C:\Users\Admin\.gradle\caches\transforms-3\88e541fc178b46cc8aaefd6fae3b8718\transformed\window-java-1.0.0-beta04\res
+com.example.covid_tracker.app-debug-4 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\android\app\src\debug\res
+com.example.covid_tracker.app-main-5 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\android\app\src\main\res
+com.example.covid_tracker.app-pngs-6 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\generated\res\pngs\debug
+com.example.covid_tracker.app-resValues-7 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\generated\res\resValues\debug
+com.example.covid_tracker.app-rs-8 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\generated\res\rs\debug
+com.example.covid_tracker.app-mergeDebugResources-9 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.covid_tracker.app-mergeDebugResources-10 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.covid_tracker.app-merged_res-11 C:\Users\Admin\StudioProjects\Flutter-Covid-19-Tracker-App-Tutorials\build\app\intermediates\merged_res\debug
